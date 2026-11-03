@@ -20,3 +20,4 @@ Este repositório já inclui o arquivo `render.yaml` pré-configurado.
 2. Conecte este repositório `catalogo-sistema-zero`.
 3. O Render configurará automaticamente o build (`pip install -r requirements.txt`) e o comando de inicialização (`python server.py`).
 4. Em instantes, o link público `https://catalogo-sistema-zero.onrender.com` estará ativo com HTTPS gratuito para compartilhar com qualquer pessoa.
+
